@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    background-color:darkgray;
+}
+/*header */
+header {
+    display:flex;
+    justify-content: space-between;
+    border:5px solid black;
+    background-color:white;
+}
+/* nav */
+nav {
+    display: flex;
+    align-self: flex-end;
+    margin:10px;
+    font-size: 16pt;
+}
+/* project */
+.project-1 {
+    display:flex;
+    margin:2px;
+    background-color: white;
+    width:90rem;
+    font-size: 24pt;
+}
+.bigBen {
+    display:flex;
+    height: 250px;
+    width: 400px;
+}
+.project-2 {
+    display:flex;
+    background-color: white;
+    font-size: 24pt;
+    margin:2px;
+    margin-top:4px;
+}
+.tokyo {
+    display:flex;
+    width: 500px;
+}
+
+.project-3 {
+    display:flex;
+
+    font-size: 24pt;
+    background: white;
+    margin:5px;
+}
+.denver {
+    display:flex;
+    width:400px;
+}
+/* footer */
+footer {
+    display:flex;
+    justify-content: center;
+    border-top: 2px solid black;
+    background-color: white;
+}
+
+.socialMedia {
+    display: flex;
+    margin-top: 20px;
+    height: 70px;
+    width: 70px;
+    padding:10px
+}
