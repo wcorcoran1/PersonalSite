@@ -1,0 +1,23 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcorcoran1/PersonalSite.git"
+  },
+  "author": "Wesley Corcoran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcorcoran1/PersonalSite/issues"
+  },
+  "homepage": "https://github.com/wcorcoran1/PersonalSite#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react": "^17.0.2"
+  }
+}
